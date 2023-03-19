@@ -1,2 +1,2 @@
-# my_kaggle_works
+# kaggle
 notebooks that i have made for different competitions in kaggle
